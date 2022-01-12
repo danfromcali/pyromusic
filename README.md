@@ -37,6 +37,10 @@ Type (npm i) in console
 
 ## 📝 Features & Commands
 
+Currently supported platforms:
+- Youtube
+- Soundcloud
+
 > Note: The default prefix is '.'
 
 * 🎶 Using YouTube Url
